@@ -894,7 +894,7 @@ function gerar() {
   <td> 
   ${alunos1B2A[0]} <br>
   ${alunos1B2A[1]} <br>
-  ${alunos1B1B[2]} <br>
+  ${alunos1B2A[2]} <br>
   ${alunos1B2A[3]} <br>
   </td>
   
